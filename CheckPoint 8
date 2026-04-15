@@ -16,7 +16,7 @@ Docker
 Docker Compose
 Steps to Run the Project
 Clone the repository:
-git clone https://github.com/nbajagain/urbaneats-docker-lab.git
+git clone https://github.com/pritam-sudo-oss/urbaneats-docker-lab
 Move into the project directory:
 cd urbaneats-docker-lab
 Build and start all containers:
